@@ -1,0 +1,12 @@
+.link_style:hover{
+    color: red;
+    cursor: se-resize;
+    text-decoration-line: none;
+}
+.link_style:visited{
+    color: purple;
+}
+.text::first-line{
+    color: springgreen;
+    text-decoration-line: underline;
+}
