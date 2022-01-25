@@ -1,0 +1,16 @@
+b {
+    color: violet;
+}
+.classParagraph{
+    color: red;
+}
+#idCursive{
+    color: seagreen;
+}
+
+div b {
+    color: salmon;
+}
+div p #idCursive2{
+    color: royalblue;
+}
