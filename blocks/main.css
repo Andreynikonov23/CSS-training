@@ -1,0 +1,11 @@
+.blocks{
+    background-color: purple;
+    background-position: center top;
+    height: 200px;
+    width: 500px;
+    border:  8px solid black;
+    border-style: double;
+    border-left: dotted 9px yellow;
+    border-radius: 20px 40px 25px 10px;
+    opacity: 0.5;
+}
