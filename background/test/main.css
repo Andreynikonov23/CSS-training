@@ -1,0 +1,14 @@
+#div1{
+    background-color: grey;
+    background-image: url('img/image.jpg');
+    background-repeat: no-repeat;
+    height: 300px;
+    width: 99%;
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div2{
+background-color: white;
+height: 10000px;
+}
