@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+}
+header, footer{
+    background-color: #3e3844;
+    color: white;
+    padding: 30px;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin: 0px;
+    border-bottom: #67557a 6px solid;
+    float: left;
+}
+header{
+    position: fixed;
+}
+
+
+article{
+    margin-top: 150px;
+    padding: 10px;
+    margin-left: 5%;
+    height: 1440px;
+    width: 45%;
+    border: black solid 3px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+
+#button{
+    background-color: red;
+    color: white;
+    text-align: center;
+    float: right;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    /*left:90%;
+    top: -1%;
+    */
+}
+
+
+aside{
+    margin-top: 150px;
+    padding: 10px;
+    margin-right: 5%;
+    height: 1440px;
+    width: 25%;
+    border: black solid 3px;
+    float: right;
+    margin-bottom: 20px;
+}
+
+
+footer{
+    background-color: #29272c;
+    border-top: #67557a 6px solid;
+    background-position: bottom;
+    text-align: left;
+    border-bottom: 0px;
+}
