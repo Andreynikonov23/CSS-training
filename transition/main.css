@@ -1,0 +1,28 @@
+div{
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+}
+#one{
+    background: linear-gradient(45deg, red, blue);
+    transition-property: width, height;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#one:hover{
+    width: 300px;
+    height: 150px;
+    border: 3px orange solid;
+    margin: 5px;
+    outline: 5px solid black;
+    outline-offset: 5px;
+}
+#two{
+    background-color: black;
+    transition-property: background;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+}
+#two:hover{
+    background: linear-gradient(45deg, red, blue);
+}
