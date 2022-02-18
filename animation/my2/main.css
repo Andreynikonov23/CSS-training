@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    animation: col 5s linear infinite alternate;
+}
+@keyframes col{
+    from{
+        background-color: red;
+    }
+    50%{
+        background-color: blue;
+    }
+    to{
+        background-color: green;
+    }
+}
